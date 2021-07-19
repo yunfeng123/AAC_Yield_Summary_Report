@@ -1,0 +1,20 @@
+			
+Total Input Qty =	25		
+Final Pass Qty = 	24		
+Final Yield = 	96.00%		
+First Pass Qty = 	23		
+First Pass Yield = 	92.00%		
+Retest Pass Qty = 	1		
+Retest Pass Rate = 	4.00%		
+Failed Qty = 	1		
+Fail Rate =	4.00%		
+Total Retest Rate = 	8.00%		
+			
+			
+Failure Detail BreakDown:			
+	Failure Item	Fail Qty	Fail Rate
+	MiniTap_AWL CLTestLoading MiniTap125Hz_AWeightedSPL-Range	1	4.00%
+			
+Retest Detail BreakDown:			
+	Retest Item	Retest Qty	Retest Rate
+	Common CLTest6 ImpactPrimaryMag_Spectrum_Result	1	4.00%

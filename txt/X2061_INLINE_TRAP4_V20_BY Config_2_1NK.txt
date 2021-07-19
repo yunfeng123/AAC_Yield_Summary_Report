@@ -1,0 +1,50 @@
+			
+Total Input Qty =	2498		
+Final Pass Qty = 	2488		
+Final Yield = 	99.60%		
+First Pass Qty = 	2422		
+First Pass Yield = 	96.96%		
+Retest Pass Qty = 	66		
+Retest Pass Rate = 	2.64%		
+Failed Qty = 	10		
+Fail Rate =	0.40%		
+Total Retest Rate = 	3.04%		
+			
+			
+Failure Detail BreakDown:			
+	Failure Item	Fail Qty	Fail Rate
+	MiniTap_PeakPower CLTestLoading MiniTap270Hz_PeakPower	2	0.08%
+	HallOffset ImpedanceTest HallToMagnetCenterShift_um	2	0.08%
+	Common CLTest5 ImpactPrimaryMag_Spectrum_Result	1	0.04%
+	MiniTap_AWL CLTestLoading MiniTap100Hz_AWeightedSPL-Range	1	0.04%
+	MiniTap_AWL CLTestLoading MiniTap80Hz_AWeightedSPL-Range	1	0.04%
+	Common CLTest6 ImpactBP6K_Spectrum_Result	1	0.04%
+	Common CLTest6 ImpactPrimaryMag_Spectrum_Result	1	0.04%
+	Common CLTestLoading ImpactPrimaryMag_Spectrum_Result	1	0.04%
+			
+Retest Detail BreakDown:			
+	Retest Item	Retest Qty	Retest Rate
+	Common CLTest6 AWL_Result	14	0.56%
+	MiniTap_AWL CLTestLoading MiniTap80Hz_AWeightedSPL-Range	6	0.24%
+	MiniTap_AWL CLTestLoading MiniTap125Hz_AWeightedSPL-Range	5	0.20%
+	Common CLTestLoading AWL_Result	4	0.16%
+	Common CLTest5 AWL_Result	4	0.16%
+	MiniTap_AWL CLTestLoading MiniTap230Hz_AWeightedSPL-Range	4	0.16%
+	Common TMTest REF_TRERR	4	0.16%
+	Common ImpedanceTest MagnitudeDelta	4	0.16%
+	Common CLTestLoading ImpactPrimaryMag_Spectrum_Result	3	0.12%
+	Noisefloor ImpedanceTest NoiseFloor	2	0.08%
+	Common CLTest5 ImpactPrimaryMag_Spectrum_Result	2	0.08%
+	MiniTap_AWL CLTestLoading MicroTap150Hz_AWeightedSPL-Range	2	0.08%
+	Common CLTest6 ImpactBP6K_Spectrum_Result	1	0.04%
+	Common CLTest6 REF_TRERR	1	0.04%
+	MiniTap_AWL CLTestLoading FullTap150Hz_AWeightedSPL-Range	1	0.04%
+	MiniTap_AWL CLTestLoading MiniTap200Hz_AWeightedSPL-Range	1	0.04%
+	Common CLTestLoading REF_TRERR	1	0.04%
+	Common CLTest5 ImpactBP6K_Spectrum_Result	1	0.04%
+	TravelMarginTest TMTest AWL_Baseline	1	0.04%
+	MiniTap_AWL CLTestLoading MiniTap150Hz_AWeightedSPL-Range	1	0.04%
+	Common CLTest6 ImpactPrimaryMag_Spectrum_Result	1	0.04%
+	Common ImpedanceTest I2S_Check	1	0.04%
+	Sweep_FR CLTest5 FRSpectrumMask1_80Hz_155Hz_Max-Mag	1	0.04%
+	Common CLTest6 AIOSync_Disconnect	1	0.04%

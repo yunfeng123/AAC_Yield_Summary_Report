@@ -1,0 +1,43 @@
+			
+Total Input Qty =	2719		
+Final Pass Qty = 	2707		
+Final Yield = 	99.56%		
+First Pass Qty = 	2637		
+First Pass Yield = 	96.98%		
+Retest Pass Qty = 	70		
+Retest Pass Rate = 	2.57%		
+Failed Qty = 	12		
+Fail Rate =	0.44%		
+Total Retest Rate = 	3.02%		
+			
+			
+Failure Detail BreakDown:			
+	Failure Item	Fail Qty	Fail Rate
+	Common CLTestLoading ImpactPrimaryMag_Spectrum_Result	6	0.22%
+	Common CLTestLoading ImpactBP6K_Spectrum_Result	4	0.15%
+	Common CLTest5 ImpactBP6K_Spectrum_Result	1	0.04%
+	Common CLTest6 ImpactPrimaryMag_Spectrum_Result	1	0.04%
+			
+Retest Detail BreakDown:			
+	Retest Item	Retest Qty	Retest Rate
+	Common CLTest6 AWL_Result	9	0.33%
+	MiniTap_AWL CLTestLoading MiniTap80Hz_AWeightedSPL-Range	9	0.33%
+	Common CLTest5 AWL_Result	7	0.26%
+	Common CLTest5 ImpactPrimaryMag_Spectrum_Result	7	0.26%
+	Common CLTestLoading ImpactPrimaryMag_Spectrum_Result	6	0.22%
+	Common CLTestLoading AWL_Result	4	0.15%
+	Common CLTestLoading ImpactBP6K_Spectrum_Result	4	0.15%
+	MiniTap_AWL CLTestLoading MiniTap100Hz_AWeightedSPL-Range	4	0.15%
+	MiniTap_AWL CLTestLoading MicroTap150Hz_AWeightedSPL-Range	3	0.11%
+	MiniTap_AWL CLTestLoading MiniTap125Hz_AWeightedSPL-Range	3	0.11%
+	MiniTap_AWL CLTestLoading MiniTap150Hz_AWeightedSPL-Range	2	0.07%
+	Common CLTest5 ImpactBP6K_Spectrum_Result	2	0.07%
+	Common CLTest5 REF_TRERR	2	0.07%
+	TravelMarginTest TMTest AWL_Baseline	1	0.04%
+	Common CLTest6 ImpactBP6K_Spectrum_Result	1	0.04%
+	Sweep_SQ CLTestLoading ImpactSecondaryMag_Max	1	0.04%
+	MiniTap_AWL CLTestLoading MiniTap80Hz_AWeightedSPL	1	0.04%
+	Common CLTest6 REF_TRERR	1	0.04%
+	MiniTap_AWL CLTestLoading FullTap150Hz_AWeightedSPL-Range	1	0.04%
+	Common CLTest6 ImpactPrimaryMag_Spectrum_Result	1	0.04%
+	MiniTap_AWL CLTestLoading MiniTap200Hz_AWeightedSPL	1	0.04%

@@ -1,0 +1,20 @@
+			
+Total Input Qty =	2770		
+Final Pass Qty = 	2770		
+Final Yield = 	100.00%		
+First Pass Qty = 	2767		
+First Pass Yield = 	99.89%		
+Retest Pass Qty = 	3		
+Retest Pass Rate = 	0.11%		
+Failed Qty = 	0		
+Fail Rate =	0.00%		
+Total Retest Rate = 	0.11%		
+			
+			
+Failure Detail BreakDown:			
+	Failure Item	Fail Qty	Fail Rate
+			
+Retest Detail BreakDown:			
+	Retest Item	Retest Qty	Retest Rate
+	HallRdc ImpedanceTest hes_res_top	2	0.07%
+	Common ImpedanceTest I2S_Check	1	0.04%

@@ -1,0 +1,18 @@
+			
+Total Input Qty =	25		
+Final Pass Qty = 	25		
+Final Yield = 	100.00%		
+First Pass Qty = 	25		
+First Pass Yield = 	100.00%		
+Retest Pass Qty = 	0		
+Retest Pass Rate = 	0.00%		
+Failed Qty = 	0		
+Fail Rate =	0.00%		
+Total Retest Rate = 	0.00%		
+			
+			
+Failure Detail BreakDown:			
+	Failure Item	Fail Qty	Fail Rate
+			
+Retest Detail BreakDown:			
+	Retest Item	Retest Qty	Retest Rate

@@ -1,0 +1,30 @@
+			
+Total Input Qty =	2750		
+Final Pass Qty = 	2748		
+Final Yield = 	99.93%		
+First Pass Qty = 	2732		
+First Pass Yield = 	99.35%		
+Retest Pass Qty = 	16		
+Retest Pass Rate = 	0.58%		
+Failed Qty = 	2		
+Fail Rate =	0.07%		
+Total Retest Rate = 	0.65%		
+			
+			
+Failure Detail BreakDown:			
+	Failure Item	Fail Qty	Fail Rate
+	HESLinearity HESLinearityTest Position_Delta	2	0.07%
+			
+Retest Detail BreakDown:			
+	Retest Item	Retest Qty	Retest Rate
+	HESLinearity HESLinearityTest Position_Delta	2	0.07%
+	Common LTFTest REF_TRERR	2	0.07%
+	Common Generate_Cliff REF_TRERR	2	0.07%
+	Common ChirpAET REF_TRERR	2	0.07%
+	Common DCLoopGainTest REF_TRERR	2	0.07%
+	RD_Q RingDownTest QFactor	1	0.04%
+	HallOffset HESCal EMCouplingFactor	1	0.04%
+	Common CDTFTest REF_TRERR	1	0.04%
+	Common ImpedanceTest CoilConnection_Check	1	0.04%
+	HallRdc HESCal HallResistance	1	0.04%
+	LTFTest LTFTest GainMargin	1	0.04%

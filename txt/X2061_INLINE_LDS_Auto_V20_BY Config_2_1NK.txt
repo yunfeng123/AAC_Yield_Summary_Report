@@ -1,0 +1,19 @@
+			
+Total Input Qty =	2664		
+Final Pass Qty = 	2664		
+Final Yield = 	100.00%		
+First Pass Qty = 	2663		
+First Pass Yield = 	99.96%		
+Retest Pass Qty = 	1		
+Retest Pass Rate = 	0.04%		
+Failed Qty = 	0		
+Fail Rate =	0.00%		
+Total Retest Rate = 	0.04%		
+			
+			
+Failure Detail BreakDown:			
+	Failure Item	Fail Qty	Fail Rate
+			
+Retest Detail BreakDown:			
+	Retest Item	Retest Qty	Retest Rate
+	HallOffset ImpedanceTest DigitalHallOffset	1	0.04%
